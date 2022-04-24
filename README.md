@@ -8,3 +8,7 @@ This project is under development and needs your contribution. In this section y
 
 - Go (go1.18.x+)
 - GNU Make (3.81+)
+
+## License
+
+This project is licensed under the [BSD-3 Clause](LICENSE) license.
